@@ -1,0 +1,111 @@
+{
+  "student_name": "Guest",
+  "student_alias": "Anonymous",
+  "export_date": "2026-01-27T23:03:30.615112",
+  "summary": {
+    "total_questions_answered": 0,
+    "correct_answers": 0,
+    "overall_accuracy": 0,
+    "total_time_spent_minutes": 0.0,
+    "exam_readiness_score": 0,
+    "current_level": 1,
+    "total_xp": 0,
+    "current_streak": 0,
+    "longest_streak": 0,
+    "quests_completed": 0
+  },
+  "topic_mastery": {
+    "1": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "2": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "3": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "4": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "5": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "6": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "7": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "8": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "9": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    },
+    "10": {
+      "mastery_level": 0,
+      "mastery_percent": 0
+    }
+  },
+  "topic_accuracy": {
+    "1": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "2": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "3": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "4": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "5": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "6": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "7": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "8": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "9": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    },
+    "10": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0
+    }
+  }
+}

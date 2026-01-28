@@ -1,0 +1,8 @@
+# AI Learning Game - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Required
+Pillow>=9.0.0          # Image handling for logo display
+
+# Optional - for building executable
+pyinstaller>=5.0.0     # Build standalone .exe

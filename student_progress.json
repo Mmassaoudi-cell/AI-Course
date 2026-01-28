@@ -1,0 +1,80 @@
+{
+  "name": "",
+  "scores": {},
+  "progress": {},
+  "total_questions": 0,
+  "correct_answers": 0,
+  "dark_mode": false,
+  "font_scale": 1.0,
+  "xp": 0,
+  "level": 1,
+  "streak": 0,
+  "last_study_date": null,
+  "achievements": [],
+  "unlocked_content": [],
+  "review_schedule": {},
+  "mastery_levels": {},
+  "question_memory": {},
+  "review_queue": [],
+  "topic_accuracy": {},
+  "personal_bests": {
+    "best_accuracy": 0,
+    "fastest_quiz": Infinity,
+    "longest_streak": 0,
+    "highest_single_quiz": 0
+  },
+  "daily_challenge_completed": null,
+  "daily_challenge_streak": 0,
+  "onboarding_complete": false,
+  "placement_quiz_taken": false,
+  "is_guest": false,
+  "active_quests": [
+    {
+      "id": "daily_quiz_2026-01-27",
+      "title": "\ud83d\udcdd Complete Daily Quiz",
+      "description": "Complete a 5-question mini-quiz on any topic",
+      "type": "quiz",
+      "target": 5,
+      "progress": 0,
+      "xp_reward": 25,
+      "generated_date": "2026-01-27"
+    },
+    {
+      "id": "topic_study_2026-01-27",
+      "title": "\ud83d\udcda Study Topic 1",
+      "description": "Review study material for Introduction to AI and Applications",
+      "type": "study",
+      "target_topic": 1,
+      "target": 1,
+      "progress": 0,
+      "xp_reward": 15,
+      "generated_date": "2026-01-27"
+    },
+    {
+      "id": "review_2026-01-27",
+      "title": "\ud83d\udd04 Complete Review Session",
+      "description": "Practice questions from topics due for review",
+      "type": "review",
+      "target": 1,
+      "progress": 0,
+      "xp_reward": 20,
+      "generated_date": "2026-01-27"
+    }
+  ],
+  "completed_quests": [],
+  "quest_progress": {},
+  "streak_freezes": 2,
+  "streak_freeze_used_today": false,
+  "unlocked_features": {
+    "hard_mode": false,
+    "exam_simulator": false,
+    "bonus_visualizations": false,
+    "case_studies": false
+  },
+  "display_alias": true,
+  "student_alias": "",
+  "opt_in_leaderboard": false,
+  "question_history": {},
+  "total_time_spent": 0,
+  "last_updated": "2026-01-27T23:03:30.613445"
+}
